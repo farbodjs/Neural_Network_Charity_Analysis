@@ -57,6 +57,8 @@ Then we decided to modify our binning for ASK_AMT and changed it to below classi
 This resulted in a less complex model and slightly increase accuracy.
 ## Summary
 After performing numerous preprocessing techniques and also trying various different Neural Network Models, we were still not able to generate results with accuracy above 75% and we can conclude that our model is not outperforming.
+![image](https://user-images.githubusercontent.com/86033316/147514187-dca69cfa-13a6-4495-88cb-ea3c015aa445.png)
+
 We highly recommend further steps in pre-processing and also elliminating some features that has less corrolation to our target value. For instance, we believe that "Special COnsideration" can be elliminated from our calculations to increase our model's simplicity.
 
 
